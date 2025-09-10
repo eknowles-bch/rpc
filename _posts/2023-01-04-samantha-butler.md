@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Samantha Butler, PhD and Anjali Sadhwani, PhD 
-tags: [Infant and child development, long term outcomes for children with congenital heart disease (CHD), improving in hospital care, Individualized developmental care, parent support]
+tags: [infant and toddler development, Child development, long term outcomes, congenital heart disease, Individualized developmental care, Parent mental health]
 ---
 
 # Cardiac Neurodevelopmental Program 
