@@ -22,8 +22,12 @@ project_entries:
     desc: Testing the combined effects of neural, physiological, behavioral, and environmental risk factors on tanxiety from infancy through adolescence
 
   - title: Cardiac Neurodevelopmental Program 
-    url: samantha-butler
+    url: samantha-butler1
     desc: The Cardiac Neurodevelopmental Program has a variety of research and quality improvement projects investigating the development of children with CHD and their families
+
+  - title: New Version
+    url: samantha-butler2
+    desc: new version
 
   - title: Building a Public Health Model for the Prevention of Violent Extremism 
     url: heidi-ellis
