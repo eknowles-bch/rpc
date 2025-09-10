@@ -61,10 +61,6 @@ project_entries:
     url: maria-jalbrzikowski5
     desc: Completion of our aims will provide an essential normative template for the study of adolescent sleep physiology, tools to improve detection of suboptimal sleep in the real-word, and a comprehensive understanding of how multiple mechanisms influence age-associated sleep patterns.
 
-  - title: Examining Longitudinal Relationships Between Fluctuations in Mood, Sleep and Physical Activity in Adolescent MDD
-    url: emma-knowles1
-    desc: Intensive digital phenotyping to index mood, anhedonia, anxiety, life stress, plus sleep and activity in adolescents with an MDD.
-
   - title: Impact of Voltage-Gated Calcium-Channel Genes on Bipolar Illness Risk in Child-Affected Trios
     url: emma-knowles2
     desc: Relate aspects of bipolar symptomatology to rare variation in voltage-gated calcium-channel (VGCC) genes.
@@ -73,9 +69,9 @@ project_entries:
     url: emma-knowles3
     desc: Delineate the relationship between variation in inflammation genes and gene networks and adolescent-onset MDD.
 
-  - title: Unraveling Depression in Adolescents by Modeling Dynamic Fluctuations in Inflammation and Sleep Biology 
+  - title: Unraveling Depression in Adolescents by Modeling Dynamic Fluctuations in Inflammation and Sleep Biology
     url: emma-knowles4
-    desc: Examine the relationship between mood, inflammationa and sleep over time.
+    desc: Examining the relationships between mood, inflammation and sleep over the short term.
 
   - title: Early Warning Signs of Age-Related Hearing Loss
     url: samuel-mathias1
@@ -110,6 +106,11 @@ old_project_entries:
   - title: Leveraging Electronic Health Records to Improve Risk Prediction for Psychosis and Bipolar Disorder
     url: maria-jalbrzikowski2
     desc: Use electronic health records to find objective markers of risk for psychotic and bipolar disorder in U.S. youth.
+
+  - title: Examining Longitudinal Relationships Between Fluctuations in Mood, Sleep and Physical Activity in Adolescent MDD
+    url: emma-knowles1
+    desc: Intensive digital phenotyping to index mood, anhedonia, anxiety, life stress, plus sleep and activity in adolescents with an MDD.
+
 
 footer_entries:
   - title: abhinav's homepage
