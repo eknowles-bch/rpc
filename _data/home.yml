@@ -44,10 +44,18 @@ project_entries:
   - title: Predicting psychosis risk in youth using a novel structural neuroimaging score and bringing it to communities using portable, low-field MRI
     url: maria-jalbrzikowski1
     desc: Converging lines of evidence support the hypothesis that deviations from typical brain structure development take place prior to psychosis onset
+    
+  - title: Pediatric Precision Sleep Network
+    url: maria-jalbrzikowski3
+    desc: Our long-term goal is to inform clinical decision-making algorithms for pediatric primary care that leverage sleep to improve MH outcomes and reduce MH disparities at a pivotal developmental window. 
+    
+  - title: International Analysis of Brain Structure in Individuals at Clinical High Risk for Developing Psychosis
+    url: maria-jalbrzikowski4
+    desc: We are examining the associations between neuroimaging measures, demographic measures, cognitive and clinical data in the CHR and healthy control groups. 
 
-  - title: Leveraging Electronic Health Records to Improve Risk Prediction for Psychosis and Bipolar Disorder
-    url: maria-jalbrzikowski2
-    desc: Use electronic health records to find objective markers of risk for psychotic and bipolar disorder in U.S. youth.
+  - title: Developing Accessible Sleep EEG Growth Charts for Young People
+    url: maria-jalbrzikowski5
+    desc: Completion of our aims will provide an essential normative template for the study of adolescent sleep physiology, tools to improve detection of suboptimal sleep in the real-word, and a comprehensive understanding of how multiple mechanisms influence age-associated sleep patterns.
 
   - title: Examining Longitudinal Relationships Between Fluctuations in Mood, Sleep and Physical Activity in Adolescent MDD
     url: emma-knowles1
@@ -91,6 +99,9 @@ old_project_entries:
     url: samantha-butler1
     desc: The Cardiac Neurodevelopmental Program has a variety of research and quality improvement projects investigating the development of children with CHD and their families
 
+  - title: Leveraging Electronic Health Records to Improve Risk Prediction for Psychosis and Bipolar Disorder
+    url: maria-jalbrzikowski2
+    desc: Use electronic health records to find objective markers of risk for psychotic and bipolar disorder in U.S. youth.
 
 footer_entries:
   - title: abhinav's homepage
